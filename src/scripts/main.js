@@ -5,7 +5,7 @@ let sw = [];
 const holder = document.getElementById("swatches");
 let i = 0;
 const colorItems = swatches.map((swatch, id) => {
-	const cr =  new CanvasRenderer(swatch, holder, i);
+	const cr =  new CanvasRenderer(swatch, holder, i, null);
 	sw.push( cr );
 	i++;
 })
@@ -13,14 +13,18 @@ const colorItems = swatches.map((swatch, id) => {
 document.getElementById("export-btn").addEventListener("click", function(event){
 	let a = [];
 	for(let i = 0; i<sw.length; i++){
-		let b = [];
+		let b = {
+            name:"hi",
+            colorArr:[]
+        };
+        b.name = sw[i].name;
 		for(let k = 0; k<sw[i].swatch.arr.length; k++){
-			b.push({col:sw[i].swatch.arr[k].color})	
+			b.colorArr.push({col:sw[i].swatch.arr[k].color})	
 		}
 		a.push(b)
 	}
 	const json = JSON.stringify(a);
-	download(json, 'colors.json', 'text/plain');
+	download(json, 'colors.json', 'text/plain');    
 })
 
 function download(content, fileName, contentType) {

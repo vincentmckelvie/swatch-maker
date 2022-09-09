@@ -2,19 +2,22 @@ import {SwatchSingle} from './SwatchSingle.js';
 
 class SwatchHolder {
   constructor(OBJ) {
-  	this.parent = OBJ.parent;
+    const self = this;
+    this.parent = OBJ.parent;
   	this.amt = OBJ.amt;
   	this.arr = [];
   	this.dom = document.createElement("div");
   	this.dom.className = "swatch-holder";
-  	this.parent.appendChild(this.dom);
+    
+    this.parent.appendChild(this.dom);
     this.ogArr = OBJ.swatchArray;
-  	
+   
     for(let i = 0; i < this.ogArr.length; i++){
       this.arr.push(new SwatchSingle({parent:this.dom, value: this.ogArr[i].col, index:i, spawn:this, length:this.ogArr.length-1}))
     }
 
   }
+  
   bounce(){
   	const fnl = "[";
   	for(let i = 0; i < this.arr.length; i++){
