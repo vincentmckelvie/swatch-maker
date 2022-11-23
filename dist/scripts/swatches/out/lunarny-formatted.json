@@ -1,748 +1,748 @@
 const swatches = [
     {
-        "name": "lunar new year 0",
+        "name": "lunarny 0",
         "colorArr": [
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#210E18"
+                "col": "#1F0013"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             }
         ]
     },
     {
-        "name": "lunar new year 1",
+        "name": "lunarny 1",
         "colorArr": [
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#E11E26"
+                "col": "#E30702"
             },
             {
-                "col": "#D61F26"
+                "col": "#D70603"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#C92127"
+                "col": "#CA0505"
             },
             {
-                "col": "#BD2025"
+                "col": "#BD0306"
             },
             {
-                "col": "#B01F24"
+                "col": "#B00208"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#A31D21"
+                "col": "#A40109"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#8C181B"
+                "col": "#8C000D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#801517"
+                "col": "#80000F"
             },
             {
-                "col": "#751114"
+                "col": "#750011"
             },
             {
-                "col": "#690A17"
+                "col": "#6A0012"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#5E0618"
+                "col": "#5F0014"
             },
             {
-                "col": "#4F111E"
+                "col": "#530016"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#3C121D"
+                "col": "#420017"
             },
             {
-                "col": "#36121C"
+                "col": "#3C0017"
             },
             {
-                "col": "#31111B"
+                "col": "#360016"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#2D101A"
+                "col": "#310015"
             },
             {
-                "col": "#29101A"
+                "col": "#2B0014"
             },
             {
-                "col": "#250F19"
+                "col": "#250014"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             }
         ]
     },
     {
-        "name": "lunar new year 2",
+        "name": "lunarny 2",
         "colorArr": [
             {
-                "col": "#250F19"
+                "col": "#250014"
             },
             {
-                "col": "#29101A"
+                "col": "#2B0014"
             },
             {
-                "col": "#2D101A"
+                "col": "#310015"
             },
             {
-                "col": "#31111B"
+                "col": "#360016"
             },
             {
-                "col": "#36121C"
+                "col": "#3C0017"
             },
             {
-                "col": "#3C121D"
+                "col": "#420017"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#4F111E"
+                "col": "#530016"
             },
             {
-                "col": "#5E0618"
+                "col": "#5F0014"
             },
             {
-                "col": "#690A17"
+                "col": "#6A0012"
             },
             {
-                "col": "#751114"
+                "col": "#750011"
             },
             {
-                "col": "#801517"
+                "col": "#80000F"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#8C181B"
+                "col": "#8C000D"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#A31D21"
+                "col": "#A40109"
             },
             {
-                "col": "#B01F24"
+                "col": "#B00208"
             },
             {
-                "col": "#BD2025"
+                "col": "#BD0306"
             },
             {
-                "col": "#C92127"
+                "col": "#CA0505"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#D61F26"
+                "col": "#D70603"
             },
             {
-                "col": "#E11E26"
+                "col": "#E30702"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#EE2F24"
+                "col": "#FF1D00"
             },
             {
-                "col": "#F04E23"
+                "col": "#FF4900"
             },
             {
-                "col": "#F26622"
+                "col": "#FF6400"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             }
         ]
     },
     {
-        "name": "lunar new year 3",
+        "name": "lunarny 3",
         "colorArr": [
             {
-                "col": "#210E18"
+                "col": "#1F0013"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#F04E23"
+                "col": "#FF4900"
             },
             {
-                "col": "#442114"
+                "col": "#441F12"
             },
             {
-                "col": "#662318"
+                "col": "#662217"
             },
             {
-                "col": "#A82823"
+                "col": "#A8250E"
             },
             {
-                "col": "#EE3424"
+                "col": "#F22E06"
             },
             {
-                "col": "#F26822"
+                "col": "#FE6708"
             },
             {
-                "col": "#6A3F18"
+                "col": "#6A3D11"
             },
             {
-                "col": "#86451E"
+                "col": "#854317"
             },
             {
-                "col": "#B94C26"
+                "col": "#B94911"
             },
             {
-                "col": "#F15722"
+                "col": "#F4540D"
             },
             {
-                "col": "#F6861F"
+                "col": "#FD860F"
             },
             {
-                "col": "#8E5E25"
+                "col": "#8F5C10"
             },
             {
-                "col": "#A36728"
+                "col": "#A36516"
             },
             {
-                "col": "#CA6F28"
+                "col": "#CA6E14"
             },
             {
-                "col": "#F47B20"
+                "col": "#F57B13"
             },
             {
-                "col": "#FAA41C"
+                "col": "#FDA417"
             },
             {
-                "col": "#B37C2B"
+                "col": "#B47B0F"
             },
             {
-                "col": "#C0882C"
+                "col": "#C18716"
             },
             {
-                "col": "#DA9327"
+                "col": "#DB9318"
             },
             {
-                "col": "#F6A21D"
+                "col": "#F7A119"
             },
             {
-                "col": "#FBC221"
+                "col": "#FCC21F"
             },
             {
-                "col": "#DA9A28"
+                "col": "#DA990E"
             },
             {
-                "col": "#E0A926"
+                "col": "#E0A816"
             },
             {
-                "col": "#EBB71F"
+                "col": "#ECB71B"
             },
             {
-                "col": "#F9C824"
+                "col": "#F9C720"
             },
             {
-                "col": "#FBE121"
+                "col": "#FBE126"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#FFCB18"
+                "col": "#FECA15"
             },
             {
-                "col": "#FCDC19"
+                "col": "#FDDC1E"
             },
             {
-                "col": "#FAED26"
+                "col": "#FBED26"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#DA9A28"
+                "col": "#DA990E"
             },
             {
-                "col": "#E0A926"
+                "col": "#E0A816"
             },
             {
-                "col": "#EBB71F"
+                "col": "#ECB71B"
             },
             {
-                "col": "#F9C824"
+                "col": "#F9C720"
             },
             {
-                "col": "#FBE121"
+                "col": "#FBE126"
             },
             {
-                "col": "#B37C2B"
+                "col": "#B47B0F"
             },
             {
-                "col": "#C0882C"
+                "col": "#C18716"
             },
             {
-                "col": "#DA9327"
+                "col": "#DB9318"
             },
             {
-                "col": "#F6A21D"
+                "col": "#F7A119"
             },
             {
-                "col": "#FBC221"
+                "col": "#FCC21F"
             },
             {
-                "col": "#8E5E25"
+                "col": "#8F5C10"
             },
             {
-                "col": "#A36728"
+                "col": "#A36516"
             },
             {
-                "col": "#CA6F28"
+                "col": "#CA6E14"
             },
             {
-                "col": "#F47B20"
+                "col": "#F57B13"
             },
             {
-                "col": "#FAA41C"
+                "col": "#FDA417"
             },
             {
-                "col": "#6A3F18"
+                "col": "#6A3D11"
             },
             {
-                "col": "#86451E"
+                "col": "#854317"
             },
             {
-                "col": "#B94C26"
+                "col": "#B94911"
             },
             {
-                "col": "#F15722"
+                "col": "#F4540D"
             },
             {
-                "col": "#F6861F"
+                "col": "#FD860F"
             },
             {
-                "col": "#442114"
+                "col": "#441F12"
             },
             {
-                "col": "#662318"
+                "col": "#662217"
             },
             {
-                "col": "#A82823"
+                "col": "#A8250E"
             },
             {
-                "col": "#EE3424"
+                "col": "#F22E06"
             },
             {
-                "col": "#F26822"
+                "col": "#FE6708"
             }
         ]
     },
     {
-        "name": "lunar new year 4",
+        "name": "lunarny 4",
         "colorArr": [
             {
-                "col": "#210E18"
+                "col": "#1F0013"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#F04E23"
+                "col": "#FF4900"
             },
             {
-                "col": "#4C2615"
+                "col": "#4C2512"
             },
             {
-                "col": "#6C341D"
+                "col": "#6C331C"
             },
             {
-                "col": "#AC2924"
+                "col": "#AC250B"
             },
             {
-                "col": "#EF3E23"
+                "col": "#F23909"
             },
             {
-                "col": "#F26122"
+                "col": "#FF5F03"
             },
             {
-                "col": "#794C1E"
+                "col": "#794A11"
             },
             {
-                "col": "#8F6728"
+                "col": "#8F6621"
             },
             {
-                "col": "#C14D27"
+                "col": "#C14A0C"
             },
             {
-                "col": "#F36D21"
+                "col": "#F46B12"
             },
             {
-                "col": "#F47521"
+                "col": "#FF7505"
             },
             {
-                "col": "#A57029"
+                "col": "#A56E0F"
             },
             {
-                "col": "#B39A31"
+                "col": "#B39925"
             },
             {
-                "col": "#D46F28"
+                "col": "#D56E0C"
             },
             {
-                "col": "#F59D1F"
+                "col": "#F69C1C"
             },
             {
-                "col": "#F78C1E"
+                "col": "#FF8C08"
             },
             {
-                "col": "#D1942A"
+                "col": "#D2930E"
             },
             {
-                "col": "#D6CC27"
+                "col": "#D6CC2A"
             },
             {
-                "col": "#EA9423"
+                "col": "#EA930D"
             },
             {
-                "col": "#F8CF29"
+                "col": "#F8CE25"
             },
             {
-                "col": "#FAA21B"
+                "col": "#FFA20A"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#D1942A"
+                "col": "#D2930E"
             },
             {
-                "col": "#D6CC27"
+                "col": "#D6CC2A"
             },
             {
-                "col": "#EA9423"
+                "col": "#EA930D"
             },
             {
-                "col": "#F8CF29"
+                "col": "#F8CE25"
             },
             {
-                "col": "#FAA21B"
+                "col": "#FFA20A"
             },
             {
-                "col": "#A57029"
+                "col": "#A56E0F"
             },
             {
-                "col": "#B39A31"
+                "col": "#B39925"
             },
             {
-                "col": "#D46F28"
+                "col": "#D56E0C"
             },
             {
-                "col": "#F59D1F"
+                "col": "#F69C1C"
             },
             {
-                "col": "#F78C1E"
+                "col": "#FF8C08"
             },
             {
-                "col": "#794C1E"
+                "col": "#794A11"
             },
             {
-                "col": "#8F6728"
+                "col": "#8F6621"
             },
             {
-                "col": "#C14D27"
+                "col": "#C14A0C"
             },
             {
-                "col": "#F36D21"
+                "col": "#F46B12"
             },
             {
-                "col": "#F47521"
+                "col": "#FF7505"
             },
             {
-                "col": "#4C2615"
+                "col": "#4C2512"
             },
             {
-                "col": "#6C341D"
+                "col": "#6C331C"
             },
             {
-                "col": "#AC2924"
+                "col": "#AC250B"
             },
             {
-                "col": "#EF3E23"
+                "col": "#F23909"
             },
             {
-                "col": "#F26122"
+                "col": "#FF5F03"
             }
         ]
     },
     {
-        "name": "lunar new year 5",
+        "name": "lunarny 5",
         "colorArr": [
             {
-                "col": "#FAED26"
+                "col": "#FBED26"
             },
             {
-                "col": "#F9C824"
+                "col": "#F9C720"
             },
             {
-                "col": "#F6A21D"
+                "col": "#F7A119"
             },
             {
-                "col": "#F47B20"
+                "col": "#F57B13"
             },
             {
-                "col": "#F15722"
+                "col": "#F4540D"
             },
             {
-                "col": "#EE3424"
+                "col": "#F22E06"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#FCDC19"
+                "col": "#FDDC1E"
             },
             {
-                "col": "#EBB71F"
+                "col": "#ECB71B"
             },
             {
-                "col": "#DA9327"
+                "col": "#DB9318"
             },
             {
-                "col": "#CA6F28"
+                "col": "#CA6E14"
             },
             {
-                "col": "#B94C26"
+                "col": "#B94911"
             },
             {
-                "col": "#A82823"
+                "col": "#A8250E"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#FFCB18"
+                "col": "#FECA15"
             },
             {
-                "col": "#E0A926"
+                "col": "#E0A816"
             },
             {
-                "col": "#C0882C"
+                "col": "#C18716"
             },
             {
-                "col": "#A36728"
+                "col": "#A36516"
             },
             {
-                "col": "#86451E"
+                "col": "#854317"
             },
             {
-                "col": "#662318"
+                "col": "#662217"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#FDB816"
+                "col": "#FFB80D"
             },
             {
-                "col": "#DA9A28"
+                "col": "#DA990E"
             },
             {
-                "col": "#B37C2B"
+                "col": "#B47B0F"
             },
             {
-                "col": "#8E5E25"
+                "col": "#8F5C10"
             },
             {
-                "col": "#6A3F18"
+                "col": "#6A3D11"
             },
             {
-                "col": "#442114"
+                "col": "#441F12"
             },
             {
-                "col": "#210E18"
+                "col": "#1F0013"
             },
             {
-                "col": "#FFCB18"
+                "col": "#FECA15"
             },
             {
-                "col": "#E0A926"
+                "col": "#E0A816"
             },
             {
-                "col": "#C0882C"
+                "col": "#C18716"
             },
             {
-                "col": "#A36728"
+                "col": "#A36516"
             },
             {
-                "col": "#86451E"
+                "col": "#854317"
             },
             {
-                "col": "#662318"
+                "col": "#662217"
             },
             {
-                "col": "#43111E"
+                "col": "#480018"
             },
             {
-                "col": "#FCDC19"
+                "col": "#FDDC1E"
             },
             {
-                "col": "#EBB71F"
+                "col": "#ECB71B"
             },
             {
-                "col": "#DA9327"
+                "col": "#DB9318"
             },
             {
-                "col": "#CA6F28"
+                "col": "#CA6E14"
             },
             {
-                "col": "#B94C26"
+                "col": "#B94911"
             },
             {
-                "col": "#A82823"
+                "col": "#A8250E"
             },
             {
-                "col": "#981B1E"
+                "col": "#97000B"
             },
             {
-                "col": "#FAED26"
+                "col": "#FBED26"
             },
             {
-                "col": "#F9C824"
+                "col": "#F9C720"
             },
             {
-                "col": "#F6A21D"
+                "col": "#F7A119"
             },
             {
-                "col": "#F47B20"
+                "col": "#F57B13"
             },
             {
-                "col": "#F15722"
+                "col": "#F4540D"
             },
             {
-                "col": "#EE3424"
+                "col": "#F22E06"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F00800"
             },
             {
-                "col": "#F2EA33"
+                "col": "#FAFF2E"
             },
             {
-                "col": "#FBE121"
+                "col": "#FBE126"
             },
             {
-                "col": "#FBC221"
+                "col": "#FCC21F"
             },
             {
-                "col": "#FAA41C"
+                "col": "#FDA417"
             },
             {
-                "col": "#F6861F"
+                "col": "#FD860F"
             },
             {
-                "col": "#F26822"
+                "col": "#FE6708"
             },
             {
-                "col": "#F04E23"
+                "col": "#FF4900"
             }
         ]
     }

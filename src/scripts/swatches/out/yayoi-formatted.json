@@ -1,959 +1,959 @@
 const swatches = [
     {
-        "name": "yayoi birthday 0",
+        "name": "yayoi 0",
         "colorArr": [
             {
-                "col": "#9C1B32"
+                "col": "#9D002F"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#0C7EB8"
+                "col": "#067EB8"
             },
             {
-                "col": "#34AF51"
+                "col": "#34AF52"
             },
             {
-                "col": "#9CCD66"
+                "col": "#90EE69"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#CD99C5"
+                "col": "#DD96E5"
             },
             {
-                "col": "#9ADAEA"
+                "col": "#94E1F1"
             },
             {
-                "col": "#4FC6DF"
+                "col": "#10D9EF"
             }
         ]
     },
     {
-        "name": "yayoi birthday 1",
+        "name": "yayoi 1",
         "colorArr": [
             {
-                "col": "#9C1B32"
+                "col": "#9D002F"
             },
             {
-                "col": "#AE1E3E"
+                "col": "#AE013A"
             },
             {
-                "col": "#C01F47"
+                "col": "#BF0244"
             },
             {
-                "col": "#CF1D52"
+                "col": "#D0024F"
             },
             {
-                "col": "#E1195B"
+                "col": "#E10359"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             },
             {
-                "col": "#ED1558"
+                "col": "#F20756"
             },
             {
-                "col": "#ED184A"
+                "col": "#F20A48"
             },
             {
-                "col": "#ED1A3C"
+                "col": "#F10C3A"
             },
             {
-                "col": "#ED1B30"
+                "col": "#F10F2C"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#EB2347"
+                "col": "#EC1F46"
             },
             {
-                "col": "#E62F6F"
+                "col": "#E62D6E"
             },
             {
-                "col": "#DF3D96"
+                "col": "#E13A97"
             },
             {
-                "col": "#C355A0"
+                "col": "#DB48BF"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#C262A6"
+                "col": "#D35BBE"
             },
             {
                 "col": "#D06195"
             },
             {
-                "col": "#CD686B"
+                "col": "#CD676B"
             },
             {
-                "col": "#CA6E42"
+                "col": "#CA6D42"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#CE7C29"
+                "col": "#CF7C1C"
             },
             {
-                "col": "#D68628"
+                "col": "#D6851F"
             },
             {
-                "col": "#DE8E27"
+                "col": "#DE8D21"
             },
             {
-                "col": "#E69824"
+                "col": "#E59624"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
                 "col": "#EEAB26"
             },
             {
-                "col": "#EEB623"
+                "col": "#EFB625"
             },
             {
-                "col": "#EFC224"
+                "col": "#F0C225"
             },
             {
-                "col": "#F2CD27"
+                "col": "#F1CD24"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#C4C740"
+                "col": "#C3C741"
             },
             {
                 "col": "#94B55F"
             },
             {
-                "col": "#64A27D"
+                "col": "#64A27C"
             },
             {
-                "col": "#36909A"
+                "col": "#35909A"
             },
             {
-                "col": "#0C7EB8"
+                "col": "#067EB8"
             },
             {
-                "col": "#1288A4"
+                "col": "#0F88A4"
             },
             {
-                "col": "#19938F"
+                "col": "#18928F"
             },
             {
-                "col": "#209B7C"
+                "col": "#229B7B"
             },
             {
-                "col": "#2DA667"
+                "col": "#2BA566"
             },
             {
-                "col": "#34AF51"
+                "col": "#34AF52"
             },
             {
-                "col": "#4CB857"
+                "col": "#46BC57"
             },
             {
-                "col": "#64BD5D"
+                "col": "#59C85B"
             },
             {
-                "col": "#78C260"
+                "col": "#6BD560"
             },
             {
-                "col": "#8AC762"
+                "col": "#7EE164"
             },
             {
-                "col": "#9CCD66"
+                "col": "#90EE69"
             },
             {
-                "col": "#76C056"
+                "col": "#76BF55"
             },
             {
-                "col": "#5D9040"
+                "col": "#5C9040"
             },
             {
-                "col": "#44622D"
+                "col": "#43612C"
             },
             {
-                "col": "#2A331A"
+                "col": "#293217"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
                 "col": "#382030"
             },
             {
-                "col": "#623F5E"
+                "col": "#613E5D"
             },
             {
-                "col": "#8B5C8C"
+                "col": "#8B5B8B"
             },
             {
-                "col": "#B47AB4"
+                "col": "#B479B8"
             },
             {
-                "col": "#CD99C5"
+                "col": "#DD96E5"
             },
             {
-                "col": "#C7A6CE"
+                "col": "#CEA5E7"
             },
             {
-                "col": "#C0B3D8"
+                "col": "#C0B4EA"
             },
             {
-                "col": "#B3C3E4"
+                "col": "#B1C3EC"
             },
             {
-                "col": "#A3D1ED"
+                "col": "#A3D2EF"
             },
             {
-                "col": "#9ADAEA"
+                "col": "#94E1F1"
             },
             {
-                "col": "#86D3E7"
+                "col": "#7ADFF1"
             },
             {
-                "col": "#72CEE3"
+                "col": "#5FDEF0"
             },
             {
-                "col": "#62CAE1"
+                "col": "#45DCF0"
             },
             {
-                "col": "#57C8DF"
+                "col": "#2ADBEF"
             },
             {
-                "col": "#4FC6DF"
+                "col": "#10D9EF"
             },
             {
-                "col": "#2DAEC9"
+                "col": "#2CAEC9"
             },
             {
-                "col": "#4982A2"
+                "col": "#4882A2"
             },
             {
-                "col": "#66587D"
+                "col": "#65577C"
             },
             {
-                "col": "#822C56"
+                "col": "#812B55"
             }
         ]
     },
     {
-        "name": "yayoi birthday 2",
+        "name": "yayoi 2",
         "colorArr": [
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#C6DA4E"
+                "col": "#C5D94C"
             },
             {
-                "col": "#9CCE76"
+                "col": "#98D975"
             },
             {
-                "col": "#79C798"
+                "col": "#6AD99D"
             },
             {
-                "col": "#5DC4BB"
+                "col": "#3DD9C6"
             },
             {
-                "col": "#4FC6DF"
+                "col": "#10D9EF"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#DCAD50"
+                "col": "#DBAC4F"
             },
             {
-                "col": "#C9BA79"
+                "col": "#C9B978"
             },
             {
-                "col": "#B9C7A0"
+                "col": "#B8C7A0"
             },
             {
                 "col": "#A6D4C9"
             },
             {
-                "col": "#9ADAEA"
+                "col": "#94E1F1"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#CB7B42"
+                "col": "#CB7A42"
             },
             {
-                "col": "#CF816B"
+                "col": "#D0816B"
             },
             {
-                "col": "#D48894"
+                "col": "#D48893"
             },
             {
-                "col": "#D98FBB"
+                "col": "#D98FBC"
             },
             {
-                "col": "#CD99C5"
+                "col": "#DD96E5"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#9F519F"
+                "col": "#AE45B9"
             },
             {
-                "col": "#87358C"
+                "col": "#86348C"
             },
             {
-                "col": "#60245E"
+                "col": "#5F245E"
             },
             {
-                "col": "#361631"
+                "col": "#371331"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#DE402D"
+                "col": "#DE3E2D"
             },
             {
-                "col": "#CB6B3C"
-            },
-            {
-                "col": "#B7964B"
-            },
-            {
-                "col": "#A3C259"
-            },
-            {
-                "col": "#9CCD66"
-            },
-            {
-                "col": "#ED1065"
-            },
-            {
-                "col": "#CC2861"
-            },
-            {
-                "col": "#A7495E"
-            },
-            {
-                "col": "#816C5A"
-            },
-            {
-                "col": "#5B8D56"
-            },
-            {
-                "col": "#34AF51"
-            },
-            {
-                "col": "#9C1B32"
-            },
-            {
-                "col": "#801A4A"
-            },
-            {
-                "col": "#623366"
-            },
-            {
-                "col": "#434D81"
-            },
-            {
-                "col": "#25669E"
-            },
-            {
-                "col": "#0C7EB8"
-            },
-            {
-                "col": "#9C1B32"
-            },
-            {
-                "col": "#ED1065"
-            },
-            {
-                "col": "#ED1C24"
-            },
-            {
-                "col": "#AD64A8"
-            },
-            {
-                "col": "#C67429"
-            },
-            {
-                "col": "#EDA028"
-            },
-            {
-                "col": "#F2DA23"
-            },
-            {
-                "col": "#801A4A"
-            },
-            {
-                "col": "#CC2861"
-            },
-            {
-                "col": "#DE402D"
-            },
-            {
-                "col": "#9F519F"
-            },
-            {
-                "col": "#CB7B42"
-            },
-            {
-                "col": "#DCAD50"
-            },
-            {
-                "col": "#C6DA4E"
-            },
-            {
-                "col": "#623366"
-            },
-            {
-                "col": "#A7495E"
-            },
-            {
-                "col": "#CB6B3C"
-            },
-            {
-                "col": "#87358C"
-            },
-            {
-                "col": "#CF816B"
-            },
-            {
-                "col": "#C9BA79"
-            },
-            {
-                "col": "#9CCE76"
-            },
-            {
-                "col": "#434D81"
-            },
-            {
-                "col": "#816C5A"
+                "col": "#CA6A3C"
             },
             {
                 "col": "#B7964B"
             },
             {
-                "col": "#60245E"
+                "col": "#A3C25A"
             },
             {
-                "col": "#D48894"
+                "col": "#90EE69"
             },
             {
-                "col": "#B9C7A0"
+                "col": "#F20464"
             },
             {
-                "col": "#79C798"
+                "col": "#CC2660"
             },
             {
-                "col": "#25669E"
+                "col": "#A6485D"
             },
             {
-                "col": "#5B8D56"
+                "col": "#806B59"
             },
             {
-                "col": "#A3C259"
+                "col": "#5A8D56"
             },
             {
-                "col": "#361631"
+                "col": "#34AF52"
             },
             {
-                "col": "#D98FBB"
+                "col": "#9D002F"
+            },
+            {
+                "col": "#7F194A"
+            },
+            {
+                "col": "#613266"
+            },
+            {
+                "col": "#424C81"
+            },
+            {
+                "col": "#24659D"
+            },
+            {
+                "col": "#067EB8"
+            },
+            {
+                "col": "#9D002F"
+            },
+            {
+                "col": "#F20464"
+            },
+            {
+                "col": "#F1121E"
+            },
+            {
+                "col": "#D655E7"
+            },
+            {
+                "col": "#C77319"
+            },
+            {
+                "col": "#ED9F27"
+            },
+            {
+                "col": "#F2D923"
+            },
+            {
+                "col": "#7F194A"
+            },
+            {
+                "col": "#CC2660"
+            },
+            {
+                "col": "#DE3E2D"
+            },
+            {
+                "col": "#AE45B9"
+            },
+            {
+                "col": "#CB7A42"
+            },
+            {
+                "col": "#DBAC4F"
+            },
+            {
+                "col": "#C5D94C"
+            },
+            {
+                "col": "#613266"
+            },
+            {
+                "col": "#A6485D"
+            },
+            {
+                "col": "#CA6A3C"
+            },
+            {
+                "col": "#86348C"
+            },
+            {
+                "col": "#D0816B"
+            },
+            {
+                "col": "#C9B978"
+            },
+            {
+                "col": "#98D975"
+            },
+            {
+                "col": "#424C81"
+            },
+            {
+                "col": "#806B59"
+            },
+            {
+                "col": "#B7964B"
+            },
+            {
+                "col": "#5F245E"
+            },
+            {
+                "col": "#D48893"
+            },
+            {
+                "col": "#B8C7A0"
+            },
+            {
+                "col": "#6AD99D"
+            },
+            {
+                "col": "#24659D"
+            },
+            {
+                "col": "#5A8D56"
+            },
+            {
+                "col": "#A3C25A"
+            },
+            {
+                "col": "#371331"
+            },
+            {
+                "col": "#D98FBC"
             },
             {
                 "col": "#A6D4C9"
             },
             {
-                "col": "#5DC4BB"
+                "col": "#3DD9C6"
             },
             {
-                "col": "#0C7EB8"
+                "col": "#067EB8"
             },
             {
-                "col": "#34AF51"
+                "col": "#34AF52"
             },
             {
-                "col": "#9CCD66"
+                "col": "#90EE69"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#CD99C5"
+                "col": "#DD96E5"
             },
             {
-                "col": "#9ADAEA"
+                "col": "#94E1F1"
             },
             {
-                "col": "#4FC6DF"
+                "col": "#10D9EF"
             }
         ]
     },
     {
-        "name": "yayoi birthday 3",
+        "name": "yayoi 3",
         "colorArr": [
             {
-                "col": "#9C1B32"
+                "col": "#9D002F"
             },
             {
-                "col": "#AA1D3A"
+                "col": "#A90137"
             },
             {
-                "col": "#B61E42"
+                "col": "#B5013E"
             },
             {
-                "col": "#C11F49"
+                "col": "#C10246"
             },
             {
-                "col": "#CE1E4F"
+                "col": "#CE024D"
             },
             {
-                "col": "#D91B57"
+                "col": "#DA0355"
             },
             {
-                "col": "#E5175E"
+                "col": "#E6035C"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             },
             {
-                "col": "#ED1977"
+                "col": "#EE1077"
             },
             {
-                "col": "#EA1E89"
+                "col": "#EA1B89"
             },
             {
-                "col": "#DF3594"
+                "col": "#E6279C"
             },
             {
-                "col": "#D04799"
+                "col": "#E232AF"
             },
             {
-                "col": "#C1529E"
+                "col": "#DE3EC2"
             },
             {
-                "col": "#B65AA3"
+                "col": "#DA49D4"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#BB59A2"
+                "col": "#DA4BCA"
             },
             {
-                "col": "#D04E9C"
+                "col": "#DE42AE"
             },
             {
-                "col": "#E13B91"
+                "col": "#E23891"
             },
             {
-                "col": "#E53075"
+                "col": "#E52F74"
             },
             {
-                "col": "#E92758"
+                "col": "#E92557"
             },
             {
-                "col": "#EC203C"
+                "col": "#ED1C3B"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#E92625"
+                "col": "#EB201D"
             },
             {
-                "col": "#E43226"
+                "col": "#E52E1D"
             },
             {
-                "col": "#DF3F26"
+                "col": "#DF3C1C"
             },
             {
-                "col": "#D84B27"
+                "col": "#D9491B"
             },
             {
-                "col": "#D25927"
+                "col": "#D3571A"
             },
             {
-                "col": "#CC6628"
+                "col": "#CD651A"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#CB7A29"
+                "col": "#CC791B"
             },
             {
-                "col": "#D28029"
+                "col": "#D2801D"
             },
             {
-                "col": "#D78728"
+                "col": "#D7861F"
             },
             {
-                "col": "#DC8C27"
+                "col": "#DD8C21"
             },
             {
-                "col": "#E19226"
+                "col": "#E29223"
             },
             {
-                "col": "#E99A26"
+                "col": "#E89925"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#EEA827"
+                "col": "#EEA726"
             },
             {
-                "col": "#EDB024"
+                "col": "#EEB026"
             },
             {
-                "col": "#EFB823"
+                "col": "#EFB825"
             },
             {
-                "col": "#EFC024"
+                "col": "#F0C025"
             },
             {
-                "col": "#F1C822"
+                "col": "#F1C824"
             },
             {
-                "col": "#F1D128"
+                "col": "#F1D124"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F1D128"
+                "col": "#F1D124"
             },
             {
-                "col": "#F1C822"
+                "col": "#F1C824"
             },
             {
-                "col": "#EFC024"
+                "col": "#F0C025"
             },
             {
-                "col": "#EFB823"
+                "col": "#EFB825"
             },
             {
-                "col": "#EDB024"
+                "col": "#EEB026"
             },
             {
-                "col": "#EEA827"
+                "col": "#EEA726"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#E99A26"
+                "col": "#E89925"
             },
             {
-                "col": "#E19226"
+                "col": "#E29223"
             },
             {
-                "col": "#DC8C27"
+                "col": "#DD8C21"
             },
             {
-                "col": "#D78728"
+                "col": "#D7861F"
             },
             {
-                "col": "#D28029"
+                "col": "#D2801D"
             },
             {
-                "col": "#CB7A29"
+                "col": "#CC791B"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#CC6628"
+                "col": "#CD651A"
             },
             {
-                "col": "#D25927"
+                "col": "#D3571A"
             },
             {
-                "col": "#D84B27"
+                "col": "#D9491B"
             },
             {
-                "col": "#DF3F26"
+                "col": "#DF3C1C"
             },
             {
-                "col": "#E43226"
+                "col": "#E52E1D"
             },
             {
-                "col": "#E92625"
+                "col": "#EB201D"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#EC203C"
+                "col": "#ED1C3B"
             },
             {
-                "col": "#E92758"
+                "col": "#E92557"
             },
             {
-                "col": "#E53075"
+                "col": "#E52F74"
             },
             {
-                "col": "#E13B91"
+                "col": "#E23891"
             },
             {
-                "col": "#D04E9C"
+                "col": "#DE42AE"
             },
             {
-                "col": "#BB59A2"
+                "col": "#DA4BCA"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#B65AA3"
+                "col": "#DA49D4"
             },
             {
-                "col": "#C1529E"
+                "col": "#DE3EC2"
             },
             {
-                "col": "#D04799"
+                "col": "#E232AF"
             },
             {
-                "col": "#DF3594"
+                "col": "#E6279C"
             },
             {
-                "col": "#EA1E89"
+                "col": "#EA1B89"
             },
             {
-                "col": "#ED1977"
+                "col": "#EE1077"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             },
             {
-                "col": "#E5175E"
+                "col": "#E6035C"
             },
             {
-                "col": "#D91B57"
+                "col": "#DA0355"
             },
             {
-                "col": "#CE1E4F"
+                "col": "#CE024D"
             },
             {
-                "col": "#C11F49"
+                "col": "#C10246"
             },
             {
-                "col": "#B61E42"
+                "col": "#B5013E"
             },
             {
-                "col": "#AA1D3A"
+                "col": "#A90137"
             },
             {
-                "col": "#9C1B32"
+                "col": "#9D002F"
             }
         ]
     },
     {
-        "name": "yayoi birthday 4",
+        "name": "yayoi 4",
         "colorArr": [
             {
-                "col": "#9C1B32"
+                "col": "#9D002F"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#130B0B"
+                "col": "#0F0303"
             },
             {
-                "col": "#F2DA23"
+                "col": "#F2D923"
             },
             {
-                "col": "#EDA028"
+                "col": "#ED9F27"
             },
             {
-                "col": "#C67429"
+                "col": "#C77319"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F1121E"
             },
             {
-                "col": "#AD64A8"
+                "col": "#D655E7"
             },
             {
-                "col": "#ED1065"
+                "col": "#F20464"
             }
         ]
     }

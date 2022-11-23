@@ -3,55 +3,55 @@ const swatches = [
         "name": "fourth 0",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
@@ -62,58 +62,58 @@ const swatches = [
         "name": "fourth 1",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
             }
         ]
     },
@@ -121,94 +121,94 @@ const swatches = [
         "name": "fourth 2",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#F04D4E"
+                "col": "#FF4949"
             },
             {
-                "col": "#F26C6E"
+                "col": "#FF6D6D"
             },
             {
-                "col": "#F59193"
+                "col": "#FF9292"
             },
             {
-                "col": "#F8B4B6"
+                "col": "#FFB6B6"
             },
             {
-                "col": "#FCDBDB"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#DFE1F1"
-            },
-            {
-                "col": "#BFC2E2"
-            },
-            {
-                "col": "#A0A7D4"
-            },
-            {
-                "col": "#7A84C1"
-            },
-            {
-                "col": "#5C6AB2"
-            },
-            {
-                "col": "#4B5EAA"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#EE332F"
-            },
-            {
-                "col": "#F04D4E"
-            },
-            {
-                "col": "#F26C6E"
-            },
-            {
-                "col": "#F59193"
-            },
-            {
-                "col": "#F8B4B6"
-            },
-            {
-                "col": "#FCDBDB"
+                "col": "#FFDBDB"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#DFE1F1"
+                "col": "#DEE2FD"
             },
             {
-                "col": "#BFC2E2"
+                "col": "#BCC4FC"
             },
             {
-                "col": "#A0A7D4"
+                "col": "#9BA7FA"
             },
             {
-                "col": "#7A84C1"
+                "col": "#7A89F9"
             },
             {
-                "col": "#5C6AB2"
+                "col": "#596CF7"
             },
             {
-                "col": "#4B5EAA"
+                "col": "#374EF6"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FF2424"
+            },
+            {
+                "col": "#FF4949"
+            },
+            {
+                "col": "#FF6D6D"
+            },
+            {
+                "col": "#FF9292"
+            },
+            {
+                "col": "#FFB6B6"
+            },
+            {
+                "col": "#FFDBDB"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#DEE2FD"
+            },
+            {
+                "col": "#BCC4FC"
+            },
+            {
+                "col": "#9BA7FA"
+            },
+            {
+                "col": "#7A89F9"
+            },
+            {
+                "col": "#596CF7"
+            },
+            {
+                "col": "#374EF6"
+            },
+            {
+                "col": "#1631F4"
             }
         ]
     },
@@ -216,97 +216,97 @@ const swatches = [
         "name": "fourth 3",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#F04D4E"
+                "col": "#FF4949"
             },
             {
-                "col": "#F26C6E"
+                "col": "#FF6D6D"
             },
             {
-                "col": "#F59193"
+                "col": "#FF9292"
             },
             {
-                "col": "#F8B4B6"
+                "col": "#FFB6B6"
             },
             {
-                "col": "#FCDBDB"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#DFE1F1"
-            },
-            {
-                "col": "#BFC2E2"
-            },
-            {
-                "col": "#A0A7D4"
-            },
-            {
-                "col": "#7A84C1"
-            },
-            {
-                "col": "#5C6AB2"
-            },
-            {
-                "col": "#4B5EAA"
-            },
-            {
-                "col": "#4056A6"
+                "col": "#FFDBDB"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#ED2224"
+                "col": "#DEE2FD"
             },
             {
-                "col": "#EE332F"
+                "col": "#BCC4FC"
             },
             {
-                "col": "#F04D4E"
+                "col": "#9BA7FA"
             },
             {
-                "col": "#F26C6E"
+                "col": "#7A89F9"
             },
             {
-                "col": "#F59193"
+                "col": "#596CF7"
             },
             {
-                "col": "#F8B4B6"
+                "col": "#374EF6"
             },
             {
-                "col": "#FCDBDB"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#DFE1F1"
+                "col": "#FF0000"
             },
             {
-                "col": "#BFC2E2"
+                "col": "#FF2424"
             },
             {
-                "col": "#A0A7D4"
+                "col": "#FF4949"
             },
             {
-                "col": "#7A84C1"
+                "col": "#FF6D6D"
             },
             {
-                "col": "#5C6AB2"
+                "col": "#FF9292"
             },
             {
-                "col": "#4B5EAA"
+                "col": "#FFB6B6"
             },
             {
-                "col": "#4056A6"
+                "col": "#FFDBDB"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#DEE2FD"
+            },
+            {
+                "col": "#BCC4FC"
+            },
+            {
+                "col": "#9BA7FA"
+            },
+            {
+                "col": "#7A89F9"
+            },
+            {
+                "col": "#596CF7"
+            },
+            {
+                "col": "#374EF6"
+            },
+            {
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
@@ -317,172 +317,172 @@ const swatches = [
         "name": "fourth 4",
         "colorArr": [
             {
-                "col": "#AC1F23"
+                "col": "#AD090B"
             },
             {
-                "col": "#D6ECFA"
+                "col": "#D5EDFF"
             },
             {
-                "col": "#B82025"
+                "col": "#B90809"
             },
             {
-                "col": "#B5DAF4"
+                "col": "#B2DCFF"
             },
             {
-                "col": "#C32026"
+                "col": "#C40608"
             },
             {
-                "col": "#97C7EB"
+                "col": "#8ECAFF"
             },
             {
-                "col": "#CF2027"
+                "col": "#D00506"
             },
             {
-                "col": "#7AB4E2"
+                "col": "#6BB8FF"
             },
             {
-                "col": "#DB1F26"
+                "col": "#DC0405"
             },
             {
-                "col": "#629FD6"
+                "col": "#47A6FF"
             },
             {
-                "col": "#E61E25"
+                "col": "#E80303"
             },
             {
-                "col": "#508CCA"
+                "col": "#2495FF"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F30102"
             },
             {
-                "col": "#457ABE"
+                "col": "#0083FF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#4173B9"
+                "col": "#0377F6"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#3E6CB4"
+                "col": "#066CEE"
             },
             {
-                "col": "#F04B4E"
+                "col": "#FF4749"
             },
             {
-                "col": "#3C65AF"
+                "col": "#0960E5"
             },
             {
-                "col": "#F26B6E"
+                "col": "#FF6B6D"
             },
             {
-                "col": "#3B5EAB"
+                "col": "#0D54DC"
             },
             {
-                "col": "#F58E93"
+                "col": "#FF8E92"
             },
             {
-                "col": "#3A57A6"
+                "col": "#1048D3"
             },
             {
-                "col": "#F8B0B6"
+                "col": "#FFB2B6"
             },
             {
-                "col": "#3851A3"
+                "col": "#133DCB"
             },
             {
-                "col": "#FBD5DB"
+                "col": "#FFD5DB"
             },
             {
-                "col": "#384A9F"
+                "col": "#1631C2"
             },
             {
-                "col": "#FEF9FB"
+                "col": "#FFF9FF"
             },
             {
-                "col": "#3851A3"
+                "col": "#133DCB"
             },
             {
-                "col": "#FBD5DB"
+                "col": "#FFD5DB"
             },
             {
-                "col": "#3A57A6"
+                "col": "#1048D3"
             },
             {
-                "col": "#F8B0B6"
+                "col": "#FFB2B6"
             },
             {
-                "col": "#3B5EAB"
+                "col": "#0D54DC"
             },
             {
-                "col": "#F58E93"
+                "col": "#FF8E92"
             },
             {
-                "col": "#3C65AF"
+                "col": "#0960E5"
             },
             {
-                "col": "#F26B6E"
+                "col": "#FF6B6D"
             },
             {
-                "col": "#3E6CB4"
+                "col": "#066CEE"
             },
             {
-                "col": "#F04B4E"
+                "col": "#FF4749"
             },
             {
-                "col": "#4173B9"
+                "col": "#0377F6"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#457ABE"
+                "col": "#0083FF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#508CCA"
+                "col": "#2495FF"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F30102"
             },
             {
-                "col": "#629FD6"
+                "col": "#47A6FF"
             },
             {
-                "col": "#E61E25"
+                "col": "#E80303"
             },
             {
-                "col": "#7AB4E2"
+                "col": "#6BB8FF"
             },
             {
-                "col": "#DB1F26"
+                "col": "#DC0405"
             },
             {
-                "col": "#97C7EB"
+                "col": "#8ECAFF"
             },
             {
-                "col": "#CF2027"
+                "col": "#D00506"
             },
             {
-                "col": "#B5DAF4"
+                "col": "#B2DCFF"
             },
             {
-                "col": "#C32026"
+                "col": "#C40608"
             },
             {
-                "col": "#D6ECFA"
+                "col": "#D5EDFF"
             },
             {
-                "col": "#B82025"
+                "col": "#B90809"
             },
             {
-                "col": "#F8FCFF"
+                "col": "#F9FFFF"
             }
         ]
     },
@@ -490,166 +490,166 @@ const swatches = [
         "name": "fourth 5",
         "colorArr": [
             {
-                "col": "#AC1F23"
+                "col": "#AD090B"
             },
             {
-                "col": "#384A9F"
+                "col": "#1631C2"
             },
             {
-                "col": "#B82025"
+                "col": "#B90809"
             },
             {
-                "col": "#3851A3"
+                "col": "#133DCB"
             },
             {
-                "col": "#C32026"
+                "col": "#C40608"
             },
             {
-                "col": "#3A57A6"
+                "col": "#1048D3"
             },
             {
-                "col": "#CF2027"
+                "col": "#D00506"
             },
             {
-                "col": "#3B5EAB"
+                "col": "#0D54DC"
             },
             {
-                "col": "#DB1F26"
+                "col": "#DC0405"
             },
             {
-                "col": "#3C65AF"
+                "col": "#0960E5"
             },
             {
-                "col": "#E61E25"
+                "col": "#E80303"
             },
             {
-                "col": "#3E6CB4"
+                "col": "#066CEE"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F30102"
             },
             {
-                "col": "#4173B9"
+                "col": "#0377F6"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#457ABE"
+                "col": "#0083FF"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#508CCA"
+                "col": "#2495FF"
             },
             {
-                "col": "#F04B4E"
+                "col": "#FF4749"
             },
             {
-                "col": "#629FD6"
+                "col": "#47A6FF"
             },
             {
-                "col": "#F26B6E"
+                "col": "#FF6B6D"
             },
             {
-                "col": "#7AB4E2"
+                "col": "#6BB8FF"
             },
             {
-                "col": "#F58E93"
+                "col": "#FF8E92"
             },
             {
-                "col": "#97C7EB"
+                "col": "#8ECAFF"
             },
             {
-                "col": "#F8B0B6"
+                "col": "#FFB2B6"
             },
             {
-                "col": "#B5DAF4"
+                "col": "#B2DCFF"
             },
             {
-                "col": "#FBD5DB"
+                "col": "#FFD5DB"
             },
             {
-                "col": "#D6ECFA"
+                "col": "#D5EDFF"
             },
             {
-                "col": "#FBD5DB"
+                "col": "#FFD5DB"
             },
             {
-                "col": "#D6ECFA"
+                "col": "#D5EDFF"
             },
             {
-                "col": "#F8B0B6"
+                "col": "#FFB2B6"
             },
             {
-                "col": "#B5DAF4"
+                "col": "#B2DCFF"
             },
             {
-                "col": "#F58E93"
+                "col": "#FF8E92"
             },
             {
-                "col": "#97C7EB"
+                "col": "#8ECAFF"
             },
             {
-                "col": "#F26B6E"
+                "col": "#FF6B6D"
             },
             {
-                "col": "#7AB4E2"
+                "col": "#6BB8FF"
             },
             {
-                "col": "#F04B4E"
+                "col": "#FF4749"
             },
             {
-                "col": "#629FD6"
+                "col": "#47A6FF"
             },
             {
-                "col": "#EE332F"
+                "col": "#FF2424"
             },
             {
-                "col": "#508CCA"
+                "col": "#2495FF"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#457ABE"
+                "col": "#0083FF"
             },
             {
-                "col": "#ED1C24"
+                "col": "#F30102"
             },
             {
-                "col": "#4173B9"
+                "col": "#0377F6"
             },
             {
-                "col": "#E61E25"
+                "col": "#E80303"
             },
             {
-                "col": "#3E6CB4"
+                "col": "#066CEE"
             },
             {
-                "col": "#DB1F26"
+                "col": "#DC0405"
             },
             {
-                "col": "#3C65AF"
+                "col": "#0960E5"
             },
             {
-                "col": "#CF2027"
+                "col": "#D00506"
             },
             {
-                "col": "#3B5EAB"
+                "col": "#0D54DC"
             },
             {
-                "col": "#C32026"
+                "col": "#C40608"
             },
             {
-                "col": "#3A57A6"
+                "col": "#1048D3"
             },
             {
-                "col": "#B82025"
+                "col": "#B90809"
             },
             {
-                "col": "#3851A3"
+                "col": "#133DCB"
             }
         ]
     },
@@ -657,172 +657,172 @@ const swatches = [
         "name": "fourth 6",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#010101"
+                "col": "#000000"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#010101"
-            },
-            {
-                "col": "#250E0D"
-            },
-            {
-                "col": "#441212"
-            },
-            {
-                "col": "#6B0D0E"
-            },
-            {
-                "col": "#921A1C"
-            },
-            {
-                "col": "#B51F24"
-            },
-            {
-                "col": "#DA1F26"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#010101"
+                "col": "#000000"
             },
             {
-                "col": "#ED2224"
+                "col": "#240000"
             },
             {
-                "col": "#FFFFFF"
+                "col": "#490000"
             },
             {
-                "col": "#4056A6"
+                "col": "#6D0000"
             },
             {
-                "col": "#394DA1"
+                "col": "#920000"
             },
             {
-                "col": "#2E3E99"
+                "col": "#B60000"
             },
             {
-                "col": "#2B3281"
+                "col": "#DB0000"
             },
             {
-                "col": "#242763"
-            },
-            {
-                "col": "#161546"
-            },
-            {
-                "col": "#0E1223"
-            },
-            {
-                "col": "#010101"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#010101"
+                "col": "#000000"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#DFE1F1"
-            },
-            {
-                "col": "#BFC2E2"
-            },
-            {
-                "col": "#A0A7D4"
-            },
-            {
-                "col": "#7A84C1"
-            },
-            {
-                "col": "#5C6AB2"
-            },
-            {
-                "col": "#4B5EAA"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#010101"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#010101"
+                "col": "#132AD1"
             },
             {
-                "col": "#ED2224"
+                "col": "#1023AE"
             },
             {
-                "col": "#EE332F"
+                "col": "#0D1C8B"
             },
             {
-                "col": "#F04D4E"
+                "col": "#091569"
             },
             {
-                "col": "#F26C6E"
+                "col": "#060E46"
             },
             {
-                "col": "#F59193"
+                "col": "#030723"
             },
             {
-                "col": "#F8B4B6"
+                "col": "#000000"
             },
             {
-                "col": "#FCDBDB"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#010101"
+                "col": "#000000"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#DEE2FD"
+            },
+            {
+                "col": "#BCC4FC"
+            },
+            {
+                "col": "#9BA7FA"
+            },
+            {
+                "col": "#7A89F9"
+            },
+            {
+                "col": "#596CF7"
+            },
+            {
+                "col": "#374EF6"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#000000"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#000000"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FF2424"
+            },
+            {
+                "col": "#FF4949"
+            },
+            {
+                "col": "#FF6D6D"
+            },
+            {
+                "col": "#FF9292"
+            },
+            {
+                "col": "#FFB6B6"
+            },
+            {
+                "col": "#FFDBDB"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#000000"
             }
         ]
     },
@@ -830,130 +830,130 @@ const swatches = [
         "name": "fourth 7",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#36B0E5"
+                "col": "#16B3F4"
             },
             {
-                "col": "#ED1C24"
+                "col": "#EF0000"
             },
             {
-                "col": "#FAFBFC"
+                "col": "#FAFAFA"
             },
             {
-                "col": "#459AD5"
+                "col": "#16A0F4"
             },
             {
-                "col": "#DF1F26"
+                "col": "#E00000"
             },
             {
-                "col": "#F5F5F5"
+                "col": "#F5F5F6"
             },
             {
-                "col": "#4586C6"
+                "col": "#168EF4"
             },
             {
-                "col": "#CF2026"
+                "col": "#D00000"
             },
             {
-                "col": "#F1F0F1"
+                "col": "#F0F0F1"
             },
             {
-                "col": "#4375BA"
+                "col": "#167BF4"
             },
             {
-                "col": "#C02026"
+                "col": "#C10000"
             },
             {
-                "col": "#EBECEB"
+                "col": "#EBECEC"
             },
             {
-                "col": "#436AB3"
+                "col": "#1669F4"
             },
             {
-                "col": "#B11F23"
+                "col": "#B10000"
             },
             {
-                "col": "#E6E7E7"
+                "col": "#E6E7E8"
             },
             {
-                "col": "#4161AD"
+                "col": "#1656F4"
             },
             {
-                "col": "#A11D21"
+                "col": "#A20000"
             },
             {
-                "col": "#E1E2E2"
+                "col": "#E1E2E3"
             },
             {
-                "col": "#405BA9"
+                "col": "#1644F4"
             },
             {
-                "col": "#921A1C"
+                "col": "#920000"
             },
             {
                 "col": "#D9D9D9"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#A11D21"
+                "col": "#A20000"
             },
             {
-                "col": "#E1E2E2"
+                "col": "#E1E2E3"
             },
             {
-                "col": "#405BA9"
+                "col": "#1644F4"
             },
             {
-                "col": "#B11F23"
+                "col": "#B10000"
             },
             {
-                "col": "#E6E7E7"
+                "col": "#E6E7E8"
             },
             {
-                "col": "#4161AD"
+                "col": "#1656F4"
             },
             {
-                "col": "#C02026"
+                "col": "#C10000"
             },
             {
-                "col": "#EBECEB"
+                "col": "#EBECEC"
             },
             {
-                "col": "#436AB3"
+                "col": "#1669F4"
             },
             {
-                "col": "#CF2026"
+                "col": "#D00000"
             },
             {
-                "col": "#F1F0F1"
+                "col": "#F0F0F1"
             },
             {
-                "col": "#4375BA"
+                "col": "#167BF4"
             },
             {
-                "col": "#DF1F26"
+                "col": "#E00000"
             },
             {
-                "col": "#F5F5F5"
+                "col": "#F5F5F6"
             },
             {
-                "col": "#4586C6"
+                "col": "#168EF4"
             },
             {
-                "col": "#ED1C24"
+                "col": "#EF0000"
             },
             {
-                "col": "#FAFBFC"
+                "col": "#FAFAFA"
             },
             {
-                "col": "#459AD5"
+                "col": "#16A0F4"
             }
         ]
     },
@@ -961,109 +961,109 @@ const swatches = [
         "name": "fourth 8",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#EE332F"
-            },
-            {
-                "col": "#4B5EAA"
+                "col": "#1631F4"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#F04D4E"
+                "col": "#FF2424"
             },
             {
-                "col": "#5C6AB2"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#F26C6E"
-            },
-            {
-                "col": "#7A84C1"
+                "col": "#374EF6"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#F59193"
+                "col": "#FF4949"
             },
             {
-                "col": "#A0A7D4"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#F8B4B6"
-            },
-            {
-                "col": "#BFC2E2"
+                "col": "#596CF7"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#FCDBDB"
+                "col": "#FF6D6D"
             },
             {
-                "col": "#DFE1F1"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#F8B4B6"
-            },
-            {
-                "col": "#BFC2E2"
+                "col": "#7A89F9"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#F59193"
+                "col": "#FF9292"
             },
             {
-                "col": "#A0A7D4"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#F26C6E"
-            },
-            {
-                "col": "#7A84C1"
+                "col": "#9BA7FA"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#F04D4E"
+                "col": "#FFB6B6"
             },
             {
-                "col": "#5C6AB2"
+                "col": "#BCC4FC"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#EE332F"
+                "col": "#FFDBDB"
             },
             {
-                "col": "#4B5EAA"
+                "col": "#DEE2FD"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#FFB6B6"
+            },
+            {
+                "col": "#BCC4FC"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#FF9292"
+            },
+            {
+                "col": "#9BA7FA"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#FF6D6D"
+            },
+            {
+                "col": "#7A89F9"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#FF4949"
+            },
+            {
+                "col": "#596CF7"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#FF2424"
+            },
+            {
+                "col": "#374EF6"
             },
             {
                 "col": "#FFFFFF"
@@ -1074,109 +1074,109 @@ const swatches = [
         "name": "fourth 9",
         "colorArr": [
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4B5EAA"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#5C6AB2"
+                "col": "#374EF6"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#7A84C1"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#A0A7D4"
+                "col": "#596CF7"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#BFC2E2"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#DFE1F1"
+                "col": "#7A89F9"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#BFC2E2"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#A0A7D4"
+                "col": "#9BA7FA"
             },
             {
-                "col": "#ED2224"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#7A84C1"
-            },
-            {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#5C6AB2"
+                "col": "#BCC4FC"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4B5EAA"
+                "col": "#DEE2FD"
             },
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#BCC4FC"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#9BA7FA"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#7A89F9"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#596CF7"
+            },
+            {
+                "col": "#FF0000"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#374EF6"
+            },
+            {
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
@@ -1187,112 +1187,112 @@ const swatches = [
         "name": "fourth 10",
         "colorArr": [
             {
-                "col": "#ED2224"
+                "col": "#FF0000"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#EE332F"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#F04D4E"
+                "col": "#FF2424"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#F26C6E"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#F59193"
+                "col": "#FF4949"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#F8B4B6"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#FCDBDB"
+                "col": "#FF6D6D"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#F8B4B6"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#F59193"
+                "col": "#FF9292"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#F26C6E"
-            },
-            {
-                "col": "#FFFFFF"
-            },
-            {
-                "col": "#4056A6"
-            },
-            {
-                "col": "#F04D4E"
+                "col": "#FFB6B6"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
             },
             {
-                "col": "#EE332F"
+                "col": "#FFDBDB"
             },
             {
                 "col": "#FFFFFF"
             },
             {
-                "col": "#4056A6"
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FFB6B6"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF9292"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF6D6D"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF4949"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
+            },
+            {
+                "col": "#FF2424"
+            },
+            {
+                "col": "#FFFFFF"
+            },
+            {
+                "col": "#1631F4"
             }
         ]
     }
